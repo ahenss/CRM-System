@@ -93,8 +93,3 @@ Contributions are welcome! Please fork this repository, create a new branch, and
 
 License
 This project is licensed under the MIT License. See the LICENSE file for more information.
-
-javascript
-Copy code
-
-You can save this content as `README.md` in your project's root directory

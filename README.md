@@ -90,6 +90,3 @@ Interactions
 POST /api/customers/interactions: Add a new interaction for a customer.
 Contributing
 Contributions are welcome! Please fork this repository, create a new branch, and submit a pull request.
-
-License
-This project is licensed under the MIT License. See the LICENSE file for more information.
